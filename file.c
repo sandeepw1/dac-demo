@@ -1,3 +1,1 @@
 This is a test file.
-This is second line.
-This is the third line.
